@@ -1,1 +1,5 @@
+int main(){
 print("hello world);
+    system("pause");
+    return 0;
+}
